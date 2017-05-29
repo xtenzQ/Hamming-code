@@ -1,0 +1,14 @@
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\bin\Debug\ImgCrypt.exe.config
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\bin\Debug\ImgCrypt.exe
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\bin\Debug\ImgCrypt.pdb
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.csprojResolveAssemblyReference.cache
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.Form1.resources
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.Properties.Resources.resources
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.csproj.GenerateResource.Cache
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.exe
+c:\users\richardkelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.pdb
+C:\Users\RichardKelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.Matrix.resources
+C:\Users\RichardKelly\documents\visual studio 2017\Projects\ImgCrypt\ImgCrypt\obj\Debug\ImgCrypt.CRC.resources
+C:\Users\RichardKelly\Documents\Visual Studio 2017\Projects\ImgCrypt_backup\ImgCrypt\bin\Debug\ImgCrypt.exe.config
+C:\Users\RichardKelly\Documents\Visual Studio 2017\Projects\ImgCrypt_backup\ImgCrypt\obj\Debug\ImgCrypt.exe
+C:\Users\RichardKelly\Documents\Visual Studio 2017\Projects\ImgCrypt_backup\ImgCrypt\obj\Debug\ImgCrypt.pdb
